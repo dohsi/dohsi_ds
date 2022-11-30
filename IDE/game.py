@@ -1,3 +1,5 @@
+#version 3
+
 """Игра угадай число"""
 
 import numpy as np
